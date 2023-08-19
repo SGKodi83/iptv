@@ -1,0 +1,213 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das_Erste" tvg-shift="" radio="" tvg-chno="001" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/ard_hd.png" group-title="Germany;Germany Free",Das Erste HD
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-id="One.de" tvg-name="ONE" tvg-shift="" radio="" tvg-chno="002" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/one_hd.png" group-title="Germany;Germany Free",ONE HD
+https://mcdn.one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 tvg-id="ARD-alpha.de" tvg-name="ARD-alpha" tvg-shift="" radio="" tvg-chno="003" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/alpha_hd.png" group-title="Germany;Germany Free",ARD-alpha HD
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-shift="" radio="" tvg-chno="004" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/zdf_hd.png" group-title="Germany;Germany Free",ZDF HD
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo" tvg-shift="" radio="" tvg-chno="005" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/zdf_info_hd.png" group-title="Germany;Germany Free",ZDF info HD
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo" tvg-shift="" radio="" tvg-chno="006" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/zdf_neo_hd.png" group-title="Germany;Germany Free",ZDF neo HD
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1" tvg-shift="" radio="" tvg-chno="007" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/sat_1.png" group-title="Germany",SAT.1 (JOYN Free Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1" tvg-shift="" radio="" tvg-chno="008" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/sat_1_hd.png" group-title="Germany",SAT.1 HD (JOYN+ Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="Sat1Comedy.de" tvg-name="SAT.1_emotions" tvg-shift="" radio="" tvg-chno="009" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/sat_1_emotions_hd.png" group-title="Germany",SAT.1 emotions HD (JOYN+ Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1emotions-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="SAT.1_GOLD" tvg-shift="" radio="" tvg-chno="010" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/sat_1_gold.png" group-title="Germany",SAT.1 Gold (JOYN Free Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1gold-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="SAT.1_GOLD" tvg-shift="" radio="" tvg-chno="011" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/sat_1_gold_hd.png" group-title="Germany",SAT.1 Gold HD (JOYN+ Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1gold-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-shift="" radio="" tvg-chno="012" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/rtl_hd.png" group-title="Germany",RTL HD (RTL+ Account)
+plugin://plugin.video.rtlgroup.de/?mode=playDash&action=IPTV&xcode&xlink=https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd&xdrm=True&xfree&xtele=RTL
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTLZWEI" tvg-shift="" radio="" tvg-chno="013" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/rtl_2_hd.png" group-title="Germany",RTL II HD (RTL+ Account)
+plugin://plugin.video.rtlgroup.de/?mode=playDash&action=IPTV&xcode&xlink=https://pnowlive-a.akamaized.net/live/rtl2hd/dash/rtl2hd.mpd&xdrm=True&xfree&xtele=RTL2
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super_RTL" tvg-shift="" radio="" tvg-chno="014" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/super_rtl_hd.png" group-title="Germany",Super RTL HD (RTL+ Account)
+plugin://plugin.video.rtlgroup.de/?mode=playDash&action=IPTV&xcode&xlink=https://pnowlive-a.akamaized.net/live/superrtlhd/dash/superrtlhd.mpd&xdrm=True&xfree&xtele=SUPERRTL
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="NITRO" tvg-shift="" radio="" tvg-chno="015" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/nitro_hd.png" group-title="Germany",NITRO HD (RTL+ Account)
+plugin://plugin.video.rtlgroup.de/?mode=playDash&action=IPTV&xcode&xlink=https://pnowlive-a.akamaized.net/live/nitrohd/dash/nitrohd.mpd&xdrm=True&xfree&xtele=NITRO
+#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTLup" tvg-shift="" radio="" tvg-chno="016" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/rtl_up_hd.png" group-title="Germany",RTL UP HD (RTL+ Account)
+plugin://plugin.video.rtlgroup.de/?mode=playDash&action=IPTV&xcode&xlink=https://pnowlive-a.akamaized.net/live/rtluphd/dash/rtluphd.mpd&xdrm=True&xfree&xtele=RTLUP
+#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="RTL_Crime" tvg-shift="" radio="" tvg-chno="017" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/rtl_crime_hd.png" group-title="Germany",RTL Crime HD (RTL+ Account)
+plugin://plugin.video.rtlgroup.de/?mode=playDash&action=IPTV&xcode&xlink=https://pnowlive-a.akamaized.net/live/rtlcrimehd/dash/rtlcrimehd.mpd&xdrm=True&xfree&xtele=RTLCRIME
+#EXTINF:-1 tvg-id="RTLLiving.de" tvg-name="RTL_Living" tvg-shift="" radio="" tvg-chno="018" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/rtl_living_hd.png" group-title="Germany",RTL Living HD (RTL+ Account)
+plugin://plugin.video.rtlgroup.de/?mode=playDash&action=IPTV&xcode&xlink=https://pnowlive-a.akamaized.net/live/rtllivinghd/dash/rtllivinghd.mpd&xdrm=True&xfree&xtele=RTLLIVING
+#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="RTL_Passion" tvg-shift="" radio="" tvg-chno="019" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/rtl_passion_hd.png" group-title="Germany",RTL Passion HD (RTL+ Account)
+plugin://plugin.video.rtlgroup.de/?mode=playDash&action=IPTV&xcode&xlink=https://pnowlive-a.akamaized.net/live/rtlpassionhd/dash/rtlpassionhd.mpd&xdrm=True&xfree&xtele=RTLPASSION
+#EXTINF:-1 tvg-id="Sixx.de" tvg-name="sixx" tvg-shift="" radio="" tvg-chno="020" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/sixx.png" group-title="Germany",sixx (JOYN Free Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sixx-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="Sixx.de" tvg-name="sixx" tvg-shift="" radio="" tvg-chno="021" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/sixx_hd.png" group-title="Germany",sixx HD (JOYN+ Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sixx-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben" tvg-shift="" radio="" tvg-chno="022" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/pro_7.png" group-title="Germany",ProSieben (JOYN Free Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=prosieben-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben" tvg-shift="" radio="" tvg-chno="023" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/pro_7_hd.png" group-title="Germany",ProSieben HD (JOYN+ Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=prosieben-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben_MAXX" tvg-shift="" radio="" tvg-chno="024" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/7_maxx.png" group-title="Germany",ProSieben MAXX (JOYN Free Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=prosiebenmaxx-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben_MAXX" tvg-shift="" radio="" tvg-chno="025" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/7_maxx_hd.png" group-title="Germany",ProSieben MAXX HD (JOYN+ Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=prosiebenmaxx-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="ProSieben_FUN" tvg-shift="" radio="" tvg-chno="026" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/pro_7_fun_hd.png" group-title="Germany",ProSieben FUN HD (JOYN+ Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=prosiebenfun-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX" tvg-shift="" radio="" tvg-chno="027" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/vox_hd.png" group-title="Germany",VOX HD (RTL+ Account)
+plugin://plugin.video.rtlgroup.de/?mode=playDash&action=IPTV&xcode&xlink=https://pnowlive-a.akamaized.net/live/voxhd/dash/voxhd.mpd&xdrm=True&xfree&xtele=VOX
+#EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOXup" tvg-shift="" radio="" tvg-chno="028" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/vox_up_hd.png" group-title="Germany",VOXup HD (RTL+ Account)
+plugin://plugin.video.rtlgroup.de/?mode=playDash&action=IPTV&xcode&xlink=https://pnowlive-a.akamaized.net/live/voxuphd/dash/voxuphd.mpd&xdrm=True&xfree&xtele=VOXUP
+#EXTINF:-1 tvg-id="Kabel.de" tvg-name="Kabel_Eins" tvg-shift="" radio="" tvg-chno="029" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/kabel_1.png" group-title="Germany",Kabel Eins (JOYN Free Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=kabeleins-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="Kabel.de" tvg-name="Kabel_Eins" tvg-shift="" radio="" tvg-chno="030" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/kabel_1_hd.png" group-title="Germany",Kabel Eins HD (JOYN+ Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=kabeleins-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="Kabel_Eins_Doku" tvg-shift="" radio="" tvg-chno="031" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/kabel_1_doku.png" group-title="Germany",Kabel Eins Doku (JOYN Free Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=kabeleinsdoku-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="Kabel_Eins_Doku" tvg-shift="" radio="" tvg-chno="032" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/kabel_1_doku_hd.png" group-title="Germany",Kabel Eins Doku HD (JOYN+ Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=kabeleinsdoku-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="KabelEinsClassic.de" tvg-name="Kabel_Eins_CLASSICS" tvg-shift="" radio="" tvg-chno="033" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/kabel_1_classics_hd.png" group-title="Germany",Kabel Eins CLASSICS HD (JOYN+ Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=kabeleinsclassics-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="DMax.de" tvg-name="DMAX" tvg-shift="" radio="" tvg-chno="034" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/dmax.png" group-title="Germany;Germany Free",DMAX
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=dmax-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="HGTV.de" tvg-name="HGTV" tvg-shift="" radio="" tvg-chno="035" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/hgtv.png" group-title="Germany;Germany Free",HGTV
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=hgtv-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC" tvg-shift="" radio="" tvg-chno="036" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/tlc.png" group-title="Germany;Germany Free",TLC
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=tlc-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="SPORT1" tvg-shift="" radio="" tvg-chno="037" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/sport_1.png" group-title="Germany;Germany Free",Sport1
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sport1-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="SPORT1" tvg-shift="" radio="" tvg-chno="038" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/sport_1_hd.png" group-title="Germany",Sport1 HD (JOYN+ Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sport1-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="SPORT1" tvg-shift="" radio="" tvg-chno="039" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/sport_1%2B_hd.png" group-title="Germany",SPORT1+ HD (JOYN+ Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sport1plus-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="Sport1US.de" tvg-name="eSPORTS1" tvg-shift="" radio="" tvg-chno="040" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/esports_1.png" group-title="Germany",eSPORTS1 HD (JOYN+ Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=esports1-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport_1" tvg-shift="" radio="" tvg-chno="041" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/eurosport_1.png" group-title="Germany;Germany Free",Eurosport 1
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=eurosport1-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red_Bull_TV" tvg-shift="" radio="" tvg-chno="042" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/redbull_tv.png" group-title="Germany;Germany Free",Red Bull TV HD
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=redbulltv-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="GEO Television" tvg-name="GEO_Television" tvg-shift="" radio="" tvg-chno="043" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/geo_hd.png" group-title="Germany",GEO Television HD (RTL+ Account)
+plugin://plugin.video.rtlgroup.de/?mode=playDash&action=IPTV&xcode&xlink=https://pnowlive-a.akamaized.net/live/geohd/dash/geohd.mpd&xdrm=True&xfree&xtele=GEO
+#EXTINF:-1 tvg-id="BILD" tvg-name="BILD" tvg-shift="" radio="" tvg-chno="044" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/bild.png" group-title="Germany;Germany Free",BILD TV HD
+https://bild.personalstream.tv/v1/master.m3u8
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv" tvg-shift="" radio="" tvg-chno="045" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/ntv_hd.png" group-title="Germany",NTV HD (RTL+ Account)
+plugin://plugin.video.rtlgroup.de/?mode=playDash&action=IPTV&xcode&xlink=https://pnowlive-a.akamaized.net/live/ntvhd/dash/ntvhd.mpd&xdrm=True&xfree&xtele=NTV
+#EXTINF:-1 tvg-id="WELT.de" tvg-name="WELT" tvg-shift="" radio="" tvg-chno="046" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/welt.png" group-title="Germany;Germany Free",WELT
+https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
+#EXTINF:-1 tvg-id="WELT.de" tvg-name="WELT" tvg-shift="" radio="" tvg-chno="047" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/welt.png" group-title="Germany",WELT HD (JOYN+ Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=welt-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24_Doku" tvg-shift="" radio="" tvg-chno="048" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/n24_doku.png" group-title="Germany;Germany Free",N24 Doku
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=n24-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24_Doku" tvg-shift="" radio="" tvg-chno="049" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/n24_doku.png" group-title="Germany",N24 Doku HD (JOYN+ Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=n24doku-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="WeltDerWunder.de" tvg-name="Welt_der_Wunder" tvg-shift="" radio="" tvg-chno="050" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/welt_der_wunder.png" group-title="Germany;Germany Free",Welt der Wunder
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau24" tvg-shift="" radio="" tvg-chno="051" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/tagesschau_24_hd.png" group-title="Germany;Germany Free",Tagesschau24 HD
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-chno="052" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/deutsche_welle.png" group-title="Germany;Germany Free",Deutsche Welle HD
+https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsDE.nws" tvg-name="Euronews_Deutsch" tvg-shift="" radio="" tvg-chno="053" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/euronews.png" group-title="Germany;Germany Free",euronews deutsch
+https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Wetterfernsehen.de" tvg-name="wetter.com_TV" tvg-shift="" radio="" tvg-chno="054" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/wetter_com.png" group-title="Germany",Wetter.com (JOYN+ Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=wettercom-de-sd&stream_type=LIVE
+#EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="TOGGO_plus" tvg-shift="" radio="" tvg-chno="055" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/toggo_plus.png" group-title="Germany",Toggo+ HD (RTL+ Account)
+plugin://plugin.video.rtlgroup.de/?mode=playDash&action=IPTV&xcode&xlink=https://pnowlive-a.akamaized.net/live/toggoplushd/dash/toggoplushd.mpd&xdrm=True&xfree&xtele=TOGGOPLUS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-chno="056" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/nickelodeon.png" group-title="Germany;Germany Free",Nick
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-chno="057" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/nickelodeon.png" group-title="Germany",Nick HD (JOYN+ Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=nickelodeon-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="ComedyCentral/VIVA.de" tvg-name="Comedy_Central" tvg-shift="" radio="" tvg-chno="058" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/comedy_central.png" group-title="Germany;Germany Free",Comedy Central
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=comedy-central-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="ComedyCentral/VIVA.de" tvg-name="Comedy_Central" tvg-shift="" radio="" tvg-chno="059" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/comedy_central_hd.png" group-title="Germany",Comedy Central HD (JOYN+ Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=comedy-central-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA" tvg-shift="" radio="" tvg-chno="060" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/kika_hd.png" group-title="Germany;Germany Free",KiKA HD
+https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master.m3u8
+#EXTINF:-1 tvg-id="RiC" tvg-name="RiC" tvg-shift="" radio="" tvg-chno="061" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/ric.png" group-title="Germany;Germany Free",RiC
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=ric&stream_type=LIVE
+#EXTINF:-1 tvg-id="MTVGermany.de" tvg-name="MTV" tvg-shift="" radio="" tvg-chno="062" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/mtv.png" group-title="Germany;Germany Free",MTV
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
+#EXTINF:-1 tvg-id="MTVGermany.de" tvg-name="MTV" tvg-shift="" radio="" tvg-chno="063" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/mtv.png" group-title="Germany",MTV HD (JOYN+ Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=mtv-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="DELUXE_MUSIC" tvg-shift="" radio="" tvg-chno="064" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/deluxe_music.png" group-title="Germany;Germany Free",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-id="SCHLAGER DELUXE" tvg-name="SCHLAGER_DELUXE" tvg-shift="" radio="" tvg-chno="065" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/schlager_deluxe.png" group-title="Germany;Germany Free",Schlager Deluxe
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+#EXTINF:-1 tvg-id="Deutsches Musik Fernsehen" tvg-name="Deutsches_Musik_Fernsehen" tvg-shift="" radio="" tvg-chno="066" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/deutsches_musik_fernsehen_hd.png" group-title="Germany;Germany Free",Deutsches Musik Fernsehen HD
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+#EXTINF:-1 tvg-id="FOLX MUSIC TELEVISION" tvg-name="FOLX_MUSIC_TELEVISION" tvg-shift="" radio="" tvg-chno="067" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/folx_music_tv.png" group-title="Germany;Germany Free",Folx TV
+https://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8
+#EXTINF:-1 tvg-id="ONE MUSIC TELEVISION" tvg-name="ONE_MUSIC_TELEVISION" tvg-shift="" radio="" tvg-chno="068" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/one_music_television.png" group-title="Germany;Germany Free",One 1 Music TV
+https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8
+#EXTINF:-1 tvg-id="ZWEI MUSIC TELEVISION" tvg-name="ZWEI_MUSIC_TELEVISION" tvg-shift="" radio="" tvg-chno="069" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/zwei_music_television.png" group-title="Germany;Germany Free",Zwei 2 Music TV
+https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8
+#EXTINF:-1 tvg-id="ServusHD.de" tvg-name="ServusTV" tvg-shift="" radio="" tvg-chno="070" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/servus_tv_hd.png" group-title="Germany;Germany Free",ServusTV HD
+https://stv-live.akamaized.net/hls/live/2031012/lingeoSTVDEwebPri/master_6692.m3u8
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="phoenix" tvg-shift="" radio="" tvg-chno="071" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/phoenix.png" group-title="Germany;Germany Free",Phoenix HD
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="ARTE" tvg-shift="" radio="" tvg-chno="072" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/arte_hd.png" group-title="Germany;Germany Free",Arte HD
+https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-shift="" radio="" tvg-chno="073" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/3_sat_hd.png" group-title="Germany;Germany Free",3sat HD
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="Tele5.de" tvg-name="TELE_5" tvg-shift="" radio="" tvg-chno="074" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/tele_5.png" group-title="Germany;Germany Free",Tele 5
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=tele5-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="BRNord.de" tvg-name="BR_Fernsehen_Nord" tvg-shift="" radio="" tvg-chno="075" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/br_hd.png" group-title="Germany;Germany Free",BR Fernsehen Nord HD
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="BR.de" tvg-name="BR_Fernsehen_Süd" tvg-shift="" radio="" tvg-chno="076" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/br_hd.png" group-title="Germany;Germany Free",BR Fernsehen Süd HD
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="HR.de" tvg-name="hr-fernsehen" tvg-shift="" radio="" tvg-chno="077" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/hr_hd.png" group-title="Germany;Germany Free",Hessischer Rundfunk HD
+https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master.m3u8
+#EXTINF:-1 tvg-id="MDRSachsen.de" tvg-name="MDR-Fernsehen_Sachsen" tvg-shift="" radio="" tvg-chno="078" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/mdr_hd.png" group-title="Germany;Germany Free",MDR Sachsen HD
+https://mdrtvsnhls.akamaized.net/hls/live/2016928-b/mdrtvsn/master.m3u8
+#EXTINF:-1 tvg-id="MDRS-Anhalt.de" tvg-name="MDR-Fernsehen_Sachsen-Anhalt" tvg-shift="" radio="" tvg-chno="079" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/mdr_hd.png" group-title="Germany;Germany Free",MDR Sachsen-Anhalt HD
+https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8
+#EXTINF:-1 tvg-id="MDRThuringen.de" tvg-name="MDR-Fernsehen_Thüringen" tvg-shift="" radio="" tvg-chno="080" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/mdr_hd.png" group-title="Germany;Germany Free",MDR Thüringen HD
+https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR_Fernsehen_Hamburg" tvg-shift="" radio="" tvg-chno="081" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/ndr_hd.png" group-title="Germany;Germany Free",NDR Hamburg HD
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:-1 tvg-id="ndrmv.de" tvg-name="NDR_Fernsehen_Mecklenburg-Vorpommern" tvg-shift="" radio="" tvg-chno="082" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/ndr_hd.png" group-title="Germany;Germany Free",NDR Mecklenburg-Vorpommern HD
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+#EXTINF:-1 tvg-id="ndrnds.de" tvg-name="NDR_Fernsehen_Niedersachsen" tvg-shift="" radio="" tvg-chno="083" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/ndr_hd.png" group-title="Germany;Germany Free",NDR Niedersachsen HD
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 tvg-id="ndrsh.de" tvg-name="NDR_Fernsehen_Schleswig-Holstein" tvg-shift="" radio="" tvg-chno="084" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/ndr_hd.png" group-title="Germany;Germany Free",NDR Schleswig-Holstein HD
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+#EXTINF:-1 tvg-id="RadioBremen.de" tvg-name="Radio_Bremen_TV" tvg-shift="" radio="" tvg-chno="085" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/radio_bremen_hd.png" group-title="Germany;Germany Free",Radio Bremen HD
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#EXTINF:-1 tvg-id="rbbBerlin.de" tvg-name="rbb_fernsehen_Berlin" tvg-shift="" radio="" tvg-chno="086" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/rbb_hd.png" group-title="Germany;Germany Free",RBB Berlin HD
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
+#EXTINF:-1 tvg-id="rbbBrandenburg.de" tvg-name="rbb_fernsehen_Brandenburg" tvg-shift="" radio="" tvg-chno="087" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/rbb_hd.png" group-title="Germany;Germany Free",RBB Brandenburg HD
+https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
+#EXTINF:-1 tvg-id="Sat1Bayern.de" tvg-name="SAT.1_Bayern" tvg-shift="" radio="" tvg-chno="088" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/sat_1.png" group-title="Germany",Sat.1 Bayern (JOYN Free Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1-bayern-de-sd&stream_type=LIVE
+#EXTINF:-1 tvg-id="SAT.1 Hamburg und Schleswig-Holstein" tvg-name="SAT.1_Hamburg_und_Schleswig-Holstein" tvg-shift="" radio="" tvg-chno="089" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/sat_1.png" group-title="Germany",Sat.1 Hamburg / Schleswig-Holstein (JOYN Free Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1-hh-sh-de-sd&stream_type=LIVE
+#EXTINF:-1 tvg-id="SAT.1 Niedersachsen und Bremen" tvg-name="SAT.1_Niedersachsen_und_Bremen" tvg-shift="" radio="" tvg-chno="090" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/sat_1.png" group-title="Germany",Sat.1 Niedersachsen / Bremen (JOYN Free Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1-ns-bremen-de-sd&stream_type=LIVE
+#EXTINF:-1 tvg-id="SAT.1 Nordrhein-Westfalen" tvg-name="SAT.1_Nordrhein-Westfalen" tvg-shift="" radio="" tvg-chno="091" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/sat_1.png" group-title="Germany",Sat.1 NRW (JOYN Free Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1-nrw-de-sd&stream_type=LIVE
+#EXTINF:-1 tvg-id="SAT.1 Rheinland-Pfalz und Hessen" tvg-name="SAT.1_Rheinland-Pfalz_und_Hessen" tvg-shift="" radio="" tvg-chno="092" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/sat_1.png" group-title="Germany",Sat.1 Rheinland-Pfalz / Hessen (JOYN Free Account)
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1-rlp-hessen-de-sd&stream_type=LIVE
+#EXTINF:-1 tvg-id="SRFernsehen.de" tvg-name="SR_Fernsehen" tvg-shift="" radio="" tvg-chno="093" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/sr_hd.png" group-title="Germany;Germany Free",SR HD
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/master.m3u8
+#EXTINF:-1 tvg-id="SWR.de" tvg-name="SWR_Fernsehen_BW" tvg-shift="" radio="" tvg-chno="094" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/swr_bw_hd.png" group-title="Germany;Germany Free",SWR Baden-Württemberg HD
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+#EXTINF:-1 tvg-id="SWR-rp.de" tvg-name="SWR_Fernsehen_RP" tvg-shift="" radio="" tvg-chno="095" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/swr_rp_hd.png" group-title="Germany;Germany Free",SWR Rheinland-Pfalz HD
+https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
+#EXTINF:-1 tvg-id="WDRAachen.de" tvg-name="WDR_Fernsehen_Aachen" tvg-shift="" radio="" tvg-chno="096" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/wdr_hd.png" group-title="Germany;Germany Free",WDR Aachen HD
+https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
+#EXTINF:-1 tvg-id="WDRBielefeld.de" tvg-name="WDR_Fernsehen_Bielefeld" tvg-shift="" radio="" tvg-chno="097" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/wdr_hd.png" group-title="Germany;Germany Free",WDR Bielefeld HD
+https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
+#EXTINF:-1 tvg-id="WDRBonn.de" tvg-name="WDR_Fernsehen_Bonn" tvg-shift="" radio="" tvg-chno="098" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/wdr_hd.png" group-title="Germany;Germany Free",WDR Bonn HD
+https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
+#EXTINF:-1 tvg-id="WDRDortmund.de" tvg-name="WDR_Fernsehen_Dortmund" tvg-shift="" radio="" tvg-chno="099" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/wdr_hd.png" group-title="Germany;Germany Free",WDR Dortmund HD
+https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
+#EXTINF:-1 tvg-id="WDRDuisburg.de" tvg-name="WDR_Fernsehen_Duisburg" tvg-shift="" radio="" tvg-chno="100" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/wdr_hd.png" group-title="Germany;Germany Free",WDR Duisburg HD
+https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
+#EXTINF:-1 tvg-id="WDRDuesseldorf.de" tvg-name="WDR_Fernsehen_Düsseldorf" tvg-shift="" radio="" tvg-chno="101" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/wdr_hd.png" group-title="Germany;Germany Free",WDR Düsseldorf HD
+https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
+#EXTINF:-1 tvg-id="WDREssen.de" tvg-name="WDR_Fernsehen_Essen" tvg-shift="" radio="" tvg-chno="102" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/wdr_hd.png" group-title="Germany;Germany Free",WDR Essen HD
+https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
+#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR_Fernsehen_Köln" tvg-shift="" radio="" tvg-chno="103" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/wdr_hd.png" group-title="Germany;Germany Free",WDR Köln HD
+https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
+#EXTINF:-1 tvg-id="WDRMuenster.de" tvg-name="WDR_Fernsehen_Münster" tvg-shift="" radio="" tvg-chno="104" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/wdr_hd.png" group-title="Germany;Germany Free",WDR Münster HD
+https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
+#EXTINF:-1 tvg-id="WDRSiegen.de" tvg-name="WDR_Fernsehen_Siegen" tvg-shift="" radio="" tvg-chno="105" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/wdr_hd.png" group-title="Germany;Germany Free",WDR Siegen HD
+https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
+#EXTINF:-1 tvg-id="WDRWuppertal.de" tvg-name="WDR_Fernsehen_Wuppertal" tvg-shift="" radio="" tvg-chno="106" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/wdr_hd.png" group-title="Germany;Germany Free",WDR Wuppertal HD
+https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
