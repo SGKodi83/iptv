@@ -1,0 +1,183 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/orf_1_hd_austria.png" group-title="Austria;Austria simpliTV",ORF 1 HD (simpliTV Free)
+plugin://plugin.video.simplitv/?mode=play&channel=orf1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/orf_2_hd_austria.png" group-title="Austria;Austria simpliTV",ORF 2 HD (simpliTV Free)
+plugin://plugin.video.simplitv/?mode=play&amp;channel=orf2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/orf2_burgenland_hd.png" group-title="Austria;Austria simpliTV",ORF 2 B HD (simpliTV Free)
+plugin://plugin.video.simplitv/?mode=play&amp;channel=orf2b
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/orf2_kaernten_hd.png" group-title="Austria;Austria simpliTV",ORF 2 K HD (simpliTV Free)
+plugin://plugin.video.simplitv/?mode=play&amp;channel=orf2k
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/orf2_niederoesterreich_hd.png" group-title="Austria;Austria simpliTV",ORF 2 NÖ HD (simpliTV Free)
+plugin://plugin.video.simplitv/?mode=play&amp;channel=orf2no
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/orf2_oberoesterreich_hd.png" group-title="Austria;Austria simpliTV",ORF 2 OÖ HD (simpliTV Free)
+plugin://plugin.video.simplitv/?mode=play&amp;channel=orf2oo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/orf2_salzburg_hd.png" group-title="Austria;Austria simpliTV",ORF 2 S HD (simpliTV Free)
+plugin://plugin.video.simplitv/?mode=play&amp;channel=orf2s
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/orf2_steiermark_hd.png" group-title="Austria;Austria simpliTV",ORF 2 ST HD (simpliTV Free)
+plugin://plugin.video.simplitv/?mode=play&amp;channel=orf2st
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/orf2_tirol_hd.png" group-title="Austria;Austria simpliTV",ORF 2 T HD (simpliTV Free)
+plugin://plugin.video.simplitv/?mode=play&amp;channel=orf2t
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/orf2_vorarlberg_hd.png" group-title="Austria;Austria simpliTV",ORF 2 V HD (simpliTV Free)
+plugin://plugin.video.simplitv/?mode=play&amp;channel=orf2v
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/orf_3_hd_austria.png" group-title="Austria;Austria simpliTV",ORF III HD (simpliTV Free)
+plugin://plugin.video.simplitv/?mode=play&amp;channel=orf-iii
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/orf_sport%2B_hd_austria.png" group-title="Austria;Austria simpliTV",ORF SPORT+ HD (simpliTV Free)
+plugin://plugin.video.simplitv/?mode=play&amp;channel=orf-sport-plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/atv_hd_austria.png" group-title="Austria;Austria simpliTV",ATV HD (simpliTV Free)
+plugin://plugin.video.simplitv/?mode=play&amp;channel=atvhd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/atv_2_hd_austria.png" group-title="Austria;Austria simpliTV",ATV II HD (simpliTV Free)
+plugin://plugin.video.simplitv/?mode=play&amp;channel=atv-ii-fhd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/puls_4_hd_austria.png" group-title="Austria;Austria simpliTV",PULS 4 HD (simpliTV Free)
+plugin://plugin.video.simplitv/?mode=play&amp;channel=puls4austriahd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/puls_24_austria.png/" group-title="Austria;Austria simpliTV",PULS 24 HD (simpliTV Free)
+plugin://plugin.video.simplitv/?mode=play&amp;channel=puls24hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/ard_hd.png" group-title="Austria;Austria simpliTV",Das Erste HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=ard-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/one_hd.png" group-title="Austria;Austria simpliTV",ONE HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=one
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/alpha_hd.png" group-title="Austria;Austria simpliTV",ARD Alpha HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=ard-alpha-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/zdf_hd.png" group-title="Austria;Austria simpliTV",ZDF HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=zdf-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/zdf_info_hd.png" group-title="Austria;Austria simpliTV",ZDFinfo HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=zdfinfo-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/zdf_neo_hd.png" group-title="Austria;Austria simpliTV",ZDFneo HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=zdfneo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/sat_1_austria.png" group-title="Austria;Austria simpliTV",SAT.1 HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=sat1austriahd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/sat_1_gold_hd_austria.png" group-title="Austria;Austria simpliTV",SAT.1 Gold HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=sat1goldaustriahd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/rtl_hd.png" group-title="Austria;Austria simpliTV",RTL HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=rtlaustriahd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/rtl_2_hd.png" group-title="Austria;Austria simpliTV",RTL ZWEI HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=rtlzweiaustriahd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/super_rtl_hd.png" group-title="Austria;Austria simpliTV",Super RTL HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=superrtl-austria-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/rtl_up_hd.png" group-title="Austria;Austria simpliTV",RTLup HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=rtlup-austria-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/nitro_hd.png" group-title="Austria;Austria simpliTV",NITRO HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=nitro-austria-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/sixx_hd_austria.png" group-title="Austria;Austria simpliTV",Sixx HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=sixxaustriahd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/pro_7_hd_austria.png" group-title="Austria;Austria simpliTV",ProSieben HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=prosiebenaustriahd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/7_maxx_hd_austria.png" group-title="Austria;Austria simpliTV",ProSieben MAXX HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=prosiebenmaxxaustriahd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/vox_austria.png" group-title="Austria;Austria simpliTV",VOX HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=voxaustriahd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/kabel_1_austria.png" group-title="Austria;Austria simpliTV",Kabel Eins HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=kabeleinsaustriahd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/kabel_1_doku_hd_austria.png" group-title="Austria;Austria simpliTV",Kabel Eins Doku HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=kabeleinsdokuhd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/dmax_hd.png" group-title="Austria;Austria simpliTV",DMAX HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=dmaxaustriahd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/tlc_hd_austria.png" group-title="Austria;Austria simpliTV",TLC HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=tlcaustriahd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/hgtv.png" group-title="Austria;Austria simpliTV",HGTV
+plugin://plugin.video.simplitv/?mode=play&amp;channel=hgtv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/sport_1_hd.png" group-title="Austria;Austria simpliTV",Sport 1 HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=sport1hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/eurosport_1_hd.png" group-title="Austria;Austria simpliTV",Eurosport 1 HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=eurosport1austriahd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/laola1.png" group-title="Austria;Austria simpliTV",LAOLA1.tv
+plugin://plugin.video.simplitv/?mode=play&amp;channel=laola1tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/studio_k19.png" group-title="Austria;Austria simpliTV",Studio K19 (simpliTV Free)
+plugin://plugin.video.simplitv/?mode=play&amp;channel=k19-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/welt.png" group-title="Austria;Austria simpliTV",WELT
+plugin://plugin.video.simplitv/?mode=play&amp;channel=welt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/n24_doku.png" group-title="Austria;Austria simpliTV",N24 DOKU
+plugin://plugin.video.simplitv/?mode=play&amp;channel=n24-doku
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/ntv.png" group-title="Austria;Austria simpliTV",n-tv HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=n-tvhd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/tagesschau_24_hd.png" group-title="Austria;Austria simpliTV",tagesschau 24 HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=tagesschau-24-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/bild.png" group-title="Austria;Austria simpliTV",Bild TV HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=bild-tv-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/oe24_tv_austria.png" group-title="Austria;Austria simpliTV",oe24.TV HD (simpliTV Free)
+plugin://plugin.video.simplitv/?mode=play&amp;channel=oe24tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/krone_tv_austria.png" group-title="Austria;Austria simpliTV",krone.tv (simpliTV Free)
+plugin://plugin.video.simplitv/?mode=play&amp;channel=kronetv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/w24.png" group-title="Austria;Austria simpliTV",W24 (simpliTV Free)
+plugin://plugin.video.simplitv/?mode=play&amp;channel=w24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/phoenix.png" group-title="Austria;Austria simpliTV",PHOENIX HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=phoenix
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/servus_tv_hd_austria.png" group-title="Austria;Austria simpliTV",ServusTV HD (simpliTV Free)
+plugin://plugin.video.simplitv/?mode=play&amp;channel=servustv-austria
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/tele_5.png" group-title="Austria;Austria simpliTV",TELE 5
+plugin://plugin.video.simplitv/?mode=play&amp;channel=tele-5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/3_sat_hd.png" group-title="Austria;Austria simpliTV",3sat HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=3sat
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/arte_hd.png" group-title="Austria;Austria simpliTV",ARTE HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=arte
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/lilo_tv.png" group-title="Austria;Austria simpliTV",LILO TV
+plugin://plugin.video.simplitv/?mode=play&amp;channel=lilo-tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/comedy_central_austria.png" group-title="Austria;Austria simpliTV",Comedy Central
+plugin://plugin.video.simplitv/?mode=play&amp;channel=comedy-central
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/nickelodeon.png" group-title="Austria;Austria simpliTV",Nickelodeon
+plugin://plugin.video.simplitv/?mode=play&amp;channel=nickelodeon
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/fix_foxi.png" group-title="Austria;Austria simpliTV",Fix & Foxi
+plugin://plugin.video.simplitv/?mode=play&amp;channel=fix-und-foxi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/kika_hd.png" group-title="Austria;Austria simpliTV",KiKA HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=kika-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/ric.png" group-title="Austria;Austria simpliTV",RiC
+plugin://plugin.video.simplitv/?mode=play&amp;channel=ric
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/mtv.png" group-title="Austria;Austria simpliTV",MTV HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=mtvaustriahd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/deluxe_music_hd_austria.png" group-title="Austria;Austria simpliTV",Deluxe Music HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=deluxemusicaustriahd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/schlager_deluxe.png" group-title="Austria;Austria simpliTV",Schlager Deluxe
+plugin://plugin.video.simplitv/?mode=play&amp;channel=schlager-deluxe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/hitradio_%C3%B63_austria.png" group-title="Austria;Austria simpliTV",Hitradio Ö3 (simpliTV Free)
+plugin://plugin.video.simplitv/?mode=play&amp;channel=oe3-visual-radio-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/kronehit.png" group-title="Austria;Austria simpliTV",Kronehit TV
+plugin://plugin.video.simplitv/?mode=play&amp;channel=kronehit-tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/deutsches_musik_fernsehen.png" group-title="Austria;Austria simpliTV",Deutsches Musikfernsehen
+plugin://plugin.video.simplitv/?mode=play&amp;channel=deutsches-musikfernsehen
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/volksmusik_tv.png" group-title="Austria;Austria simpliTV",Volksmusik TV
+plugin://plugin.video.simplitv/?mode=play&amp;channel=volksmusik-tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/starparadise_austria.png" group-title="Austria;Austria simpliTV",StarParadies
+plugin://plugin.video.simplitv/?mode=play&amp;channel=starparadises-tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/melodie_tv.png" group-title="Austria;Austria simpliTV",Melodie TV
+plugin://plugin.video.simplitv/?mode=play&amp;channel=melodietv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/br_hd.png" group-title="Austria;Austria simpliTV",BR Fernsehen Süd HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=bfs
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/hr_hd.png" group-title="Austria;Austria simpliTV",hr-fernsehen HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=hr-fernsehen-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/mdr_hd.png" group-title="Austria;Austria simpliTV",MDR Sachsen HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=mdr-sachsen-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/ndr_hd.png" group-title="Austria;Austria simpliTV",NDR HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=ndr
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/radio_bremen.png" group-title="Austria;Austria simpliTV",Radio Bremen HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=radio-bremen-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/rbb_hd.png" group-title="Austria;Austria simpliTV",rbb Berlin HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=rbb-berlin-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/sr_hd.png" group-title="Austria;Austria simpliTV",SR Fernsehen HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=sr-fernsehen-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/swr_bw_hd.png" group-title="Austria;Austria simpliTV",SWR BW HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=swr-bw-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/wdr_hd.png" group-title="Austria;Austria simpliTV",WDR Köln HD
+plugin://plugin.video.simplitv/?mode=play&amp;channel=wdr-k%C3%B6ln-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/dorf_tv.png" group-title="Austria;Austria simpliTV",dorftv (simpliTV Free)
+plugin://plugin.video.simplitv/?mode=play&amp;channel=dorftv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/kurier_tv_austria.png" group-title="Austria;Austria simpliTV",Kurier TV (simpliTV Free)
+plugin://plugin.video.simplitv/?mode=play&amp;channel=schau-tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/kt1.jpg" group-title="Austria;Austria simpliTV",KT1
+plugin://plugin.video.simplitv/?mode=play&amp;channel=kt1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/l%C3%A4ndle_tv.png" group-title="Austria;Austria simpliTV",Ländle TV (simpliTV Free)
+plugin://plugin.video.simplitv/?mode=play&amp;channel=laendletv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/lt1_austria.png" group-title="Austria;Austria simpliTV",LT1
+plugin://plugin.video.simplitv/?mode=play&amp;channel=lt1-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/n1_niederoesterreich.png" group-title="Austria;Austria simpliTV",N1
+plugin://plugin.video.simplitv/?mode=play&amp;channel=n1-noe-tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/r9_austria.png" group-title="Austria;Austria simpliTV",R9 HD (simpliTV Free)
+plugin://plugin.video.simplitv/?mode=play&amp;channel=r9-oesterreich-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/tirol_tv.png" group-title="Austria;Austria simpliTV",TIROL TV
+plugin://plugin.video.simplitv/?mode=play&amp;channel=tiroltv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/tv1_ober%C3%B6sterreich_austria.png" group-title="Austria;Austria simpliTV",TV 1 OÖ
+plugin://plugin.video.simplitv/?mode=play&amp;channel=tv1-ooe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/dorcel_tv.png" group-title="Austria;Austria simpliTV",Dorcel TV
+plugin://plugin.video.simplitv/?mode=play&amp;channel=dorcel-tv-hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/hustler_tv.png" group-title="Austria;Austria simpliTV",Hustler TV
+plugin://plugin.video.simplitv/?mode=play&amp;channel=hustler-tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/xxx/playboy_tv.png" group-title="Austria;Austria simpliTV",Playboy TV
+plugin://plugin.video.simplitv/?mode=play&amp;channel=playboy-tv
