@@ -1,0 +1,63 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/orf_1_hd_austria.png" group-title="Austria;Austria JOYN",ORF1 HD
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=orf1-at&stream_type=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/orf_2_hd_austria.png" group-title="Austria;Austria JOYN",ORF2 HD
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=orf2-at&stream_type=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/orf_3_hd_austria.png" group-title="Austria;Austria JOYN",ORF III HD
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=orf3-at&stream_type=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/orf_sport%2B_hd_austria.png" group-title="Austria;Austria JOYN",ORF SPORT + HD
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=orf-sport-plus-at&stream_type=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/atv_hd_austria.png" group-title="Austria;Austria JOYN",ATV HD
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=atv&stream_type=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/atv_2_hd_austria.png" group-title="Austria;Austria JOYN",ATV 2
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=atv2&stream_type=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/puls_4_austria.png" group-title="Austria;Austria JOYN",PULS 4
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=puls4-at&stream_type=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/puls_24_austria.png" group-title="Austria;Austria JOYN",PULS 24 HD
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=puls24-at-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/servus_tv_hd_austria.png" group-title="Austria;Austria JOYN",ServusTV HD
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=servustv-at&stream_type=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/sat_1_austria.png" group-title="Austria;Austria JOYN",SAT.1
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1-at&stream_type=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/sat_1_gold_austria.png" group-title="Austria;Austria JOYN",SAT.1 Gold
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1gold-at&stream_type=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/sixx_austria.png" group-title="Austria;Austria JOYN",sixx
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sixx-at&stream_type=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/pro_7_austria.png" group-title="Austria;Austria JOYN",ProSieben
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=prosieben-at&stream_type=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/7_maxx_austria.png" group-title="Austria;Austria JOYN",ProSieben MAXX
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=prosiebenmaxx-at&stream_type=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/kabel_1_austria.png" group-title="Austria;Austria JOYN",Kabel Eins
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=kabeleins-at&stream_type=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/kabel_1_doku_austria.png" group-title="Austria;Austria JOYN",Kabel Eins Doku
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=kabeleinsdoku-at&stream_type=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/sport_1.png" group-title="Austria;Austria JOYN",Sport1
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sport1-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/laola1.png" group-title="Austria;Austria JOYN",Laola 1
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=laola1-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/motorvision_tv.png" group-title="Austria;Austria JOYN",Motorvision
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=motorvision-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/redbull_tv.png" group-title="Austria;Austria JOYN",Red Bull TV HD
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=redbulltv-at-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/welt.png" group-title="Austria;Austria JOYN",WELT
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=welt-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/n24_doku.png" group-title="Austria;Austria JOYN",N24 Doku
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=n24-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/euronews.png" group-title="Austria;Austria JOYN",euronews
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=euronews-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/deluxe_music.png" group-title="Austria;Austria JOYN",Deluxe Music
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=deluxe-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/kronehit.png" group-title="Austria;Austria JOYN",Kronehit tv
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=kronehittv-at&stream_type=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/german/ric.png" group-title="Austria;Austria JOYN",RiC
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=ric&stream_type=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/krone_tv_austria.png" group-title="Austria;Austria JOYN",krone.tv
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=kronetv-at-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/kurier_tv_austria.png" group-title="Austria;Austria JOYN",Kurier TV
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=schautv-at-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/r9_austria.png" group-title="Austria;Austria JOYN",R9
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=r9-at-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/tv1_ober%C3%B6sterreich_austria.png" group-title="Austria;Austria JOYN",TV1
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=tv1-at&stream_type=LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/w24.png" group-title="Austria;Austria JOYN",W24
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=w24-at-hd&stream_type=LIVE
