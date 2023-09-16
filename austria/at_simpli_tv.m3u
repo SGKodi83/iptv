@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/8p4ey8m9m2fk5qkmng1v"
+#EXTM3U
 #EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF 1 HD" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/orf_1_hd_austria.png" group-title="Austria;Austria simpliTV",ORF 1 HD (simpliTV Free)
 plugin://plugin.video.simplitv/?mode=play&channel=orf1
 #EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2 HD" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-colored/main/austria/orf_2_hd_austria.png" group-title="Austria;Austria simpliTV",ORF 2 HD (simpliTV Free)
